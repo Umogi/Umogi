@@ -14,7 +14,7 @@ I primarily code in **C** and **Lua**, but I also work with:
 - **Java**  
 - **Go**  
 - **Python**  
-- **HTML, CSS, PHP**  
+- **HTML, CSS, JS, PHP**  
 
 ---
 
