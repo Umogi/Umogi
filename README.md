@@ -1,6 +1,6 @@
-# Kelly | Umogi
+# HI
 
-I'm **Kelly**, I am student/developer who enjoys building things in **C** and **Lua**.  
+I'm **Umogi**, I am student/developer who enjoys building things in **C** and **Lua**.  
 
 I’m currently working on **projects in C and Lua**  
 Exploring **new coding languages**  
