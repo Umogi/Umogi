@@ -20,9 +20,3 @@ I primarily code in **C** and **Lua**, but I also work with:
 
 ### GitHub Stats  
 ![Umogi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umogi&show_icons=true&theme=radical)  
-
----
-
-### Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-instagram-url)
