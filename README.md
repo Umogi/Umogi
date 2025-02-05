@@ -1,4 +1,4 @@
-# Kelly/Umogi
+# Kelly | Umogi
 
 I'm **Kelly**, I am student/developer who enjoys building things in **C** and **Lua**.  
 
