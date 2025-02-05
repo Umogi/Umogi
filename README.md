@@ -1,10 +1,9 @@
 # Hi there!
 
-I'm **Kelly**, I am developer who enjoys building things in **C** and **Lua**.  
+I'm **Kelly**, I am student/developer who enjoys building things in **C** and **Lua**.  
 
-I’m currently working on **cool projects in C and Lua**  
-Exploring **new ways to optimize my code**  
-Ask me about **systems programming, game scripting, and backend development**  
+I’m currently working on **projects in C and Lua**  
+Exploring **new coding languages**  
 
 ---
 
